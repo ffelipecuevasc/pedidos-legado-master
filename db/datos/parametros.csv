@@ -1,0 +1,6 @@
+CLAVE,VALOR,DESCRIPCION
+IVA,19,Tasa de IVA en porcentaje
+MINIMO_PEDIDO,25000,Monto minimo de pedido fuera de RM
+EMPRESA,DISTRIBUIDORA EJEMPLO SUR LTDA.,Nombre para tickets e informes
+IMPRIMIR,S,Generar ticket al grabar (S/N)
+VERSION_BD,7,Version del esquema
